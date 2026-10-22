@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "clearsignal-wq"
+version = "0.1.0"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+    "numpy",
+    "pandas",
+    "plotly",
+    "statsmodels",
+    "streamlit",
+]
+
+[project.optional-dependencies]
+dev = [
+    "playwright",
+    "pytest",
+    "pytest-cov",
+    "ruff",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+addopts = "--strict-markers"
+markers = [
+    "e2e: browser tests that start the local Streamlit application",
+]
+
+[tool.ruff]
+target-version = "py311"
