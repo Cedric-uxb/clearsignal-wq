@@ -65,9 +65,9 @@ The low precision and high invalid-alert rate are important limitations, not num
 
 Automated quality evidence at the current commit:
 
-- 310 tests passing, including Streamlit AppTest and two Playwright browser flows;
+- 311 tests passing, including Streamlit AppTest and three Playwright browser flows;
 - 93.50% package coverage;
-- desktop `1440x900` and mobile `390x844` visual checks with no horizontal overflow;
+- desktop `1440x900`, narrow desktop `692x752`, and mobile `390x844` visual checks;
 - deterministic data hashes, event IDs, scenario manifests, and priority ordering.
 
 See [docs/visual-qa.md](docs/visual-qa.md) for the browser and viewport evidence.
@@ -139,7 +139,12 @@ scripts/run_app.sh           local Streamlit launcher
 tests/                       unit, integration, AppTest, and Playwright tests
 docs/visual-qa.md            desktop and mobile visual evidence
 demo/demo_script.md          recording steps and English narration
+presentation/                editable PPTX, public PDF, and deck source
 ```
+
+## Presentation
+
+The public seven-slide challenge deck is available as an [editable PPTX](presentation/ClearSignal-WQ-Deck.pptx) and a [PDF](presentation/ClearSignal-WQ-Deck.pdf).
 
 ## Team
 

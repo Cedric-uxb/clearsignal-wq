@@ -100,12 +100,11 @@ These labels and metrics concern sensor data quality. They do not establish cont
 
 - Public GitHub repository: <https://github.com/Cedric-uxb/clearsignal-wq>
 - Public demo video: **PENDING - record and upload after final review**
-- Public slides/PDF: **PENDING - create and upload after final review**
+- Public slides/PDF: <https://github.com/Cedric-uxb/clearsignal-wq/blob/main/presentation/ClearSignal-WQ-Deck.pdf>
 - Challenge project URL: **PENDING - publish only after user approval**
 
 ## Remaining release blockers
 
 1. Record the approved 3-4 minute demo and upload it without account, email, path, or notification exposure.
-2. Create the public slides/PDF and confirm link permissions in a signed-out browser.
-3. Fill the remaining publication URLs above and reconcile them with the challenge form.
-4. Click `Publish` only after explicit approval and preserve the platform success receipt.
+2. Fill the remaining publication URLs above and reconcile them with the challenge form.
+3. Click `Publish` only after explicit approval and preserve the platform success receipt.

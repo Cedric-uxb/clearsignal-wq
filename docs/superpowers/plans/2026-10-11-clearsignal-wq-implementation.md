@@ -488,11 +488,13 @@ rg -n --hidden -g '!.git/**' -g '!.venv/**' \
 - [ ] 提交：子仓库 `git commit -m "docs: prepare ClearSignal WQ submission"`；父仓库 `git commit -m "docs: mark ClearSignal submission ready"`。
 - [x] 用户已明确批准清理历史并公开 GitHub；仓库发布到 `https://github.com/Cedric-uxb/clearsignal-wq`。尚未授权或执行比赛平台 `Publish`。
 
-**当前阻塞（2026-10-22）：** Git 历史已获授权清理，公开仓库 URL 已确定。提交包仍需视频、Slides/PDF 和平台项目页 URL，尚未达到 `submission_ready`。
+**当前阻塞（2026-10-22）：** Git 历史已获授权清理，公开仓库与 7 页英文 Slides/PDF 已完成。提交包仍需演示视频和平台项目页 URL，尚未达到 `submission_ready`。
 
 **完成证据：** 本地提交包达到 `submission_ready`，并能区分“材料准备完成”和“平台已发布”。
 
-**下一步：** 创建公开 Slides/PDF；验收后录制并上传 3-4 分钟演示视频，再填写平台项目页并保存成功回执。
+**Slides 完成证据（2026-10-22）：** 已生成 7 页英文公开演示稿 `presentation/ClearSignal-WQ-Deck.pptx` 与 PDF，使用真实 Streamlit 截图和冻结指标。PDF 为 16:9、7 页；全页渲染检查未发现空白页、文字越界、截图拉伸或元素重叠。责任边界明确保留“传感器数据质量标签不是污染确认”和“必须人工复核”。
+
+**下一步：** 按 `demo/demo_script.md` 录制并上传 3-4 分钟演示视频；验收后填写平台项目页并保存成功回执。
 
 ## 最终验收清单
 
