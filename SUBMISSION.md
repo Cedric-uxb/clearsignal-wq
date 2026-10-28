@@ -1,6 +1,6 @@
 # ClearSignal WQ Submission Draft
 
-Status: **public repository published; challenge submission not yet published**
+Status: **public repository and demo published; participant reports challenge submission completed; platform receipt URL pending reconciliation**
 
 ## Challenge
 
@@ -99,12 +99,11 @@ These labels and metrics concern sensor data quality. They do not establish cont
 ## Publication fields
 
 - Public GitHub repository: <https://github.com/Cedric-uxb/clearsignal-wq>
-- Public demo video: **PENDING - record and upload after final review**
+- Public demo video: <https://github.com/Cedric-uxb/clearsignal-wq/blob/main/artifacts/demo/ClearSignal-WQ-Demo-Washed-Up.mp4>
 - Public slides/PDF: <https://github.com/Cedric-uxb/clearsignal-wq/blob/main/presentation/ClearSignal-WQ-Deck.pdf>
-- Challenge project URL: **PENDING - publish only after user approval**
+- Challenge project URL: **PENDING - copy from the platform success page**
 
 ## Remaining release blockers
 
-1. Record the approved 3-4 minute demo and upload it without account, email, path, or notification exposure.
-2. Fill the remaining publication URLs above and reconcile them with the challenge form.
-3. Click `Publish` only after explicit approval and preserve the platform success receipt.
+1. Copy the challenge project URL from the platform success page.
+2. Reconcile the public fields above with the submitted challenge form and preserve the success receipt.
