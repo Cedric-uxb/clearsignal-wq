@@ -99,7 +99,7 @@ These labels and metrics concern sensor data quality. They do not establish cont
 ## Publication fields
 
 - Public GitHub repository: <https://github.com/Cedric-uxb/clearsignal-wq>
-- Public demo video: <https://github.com/Cedric-uxb/clearsignal-wq/blob/main/artifacts/demo/ClearSignal-WQ-Demo-Washed-Up.mp4>
+- Public demo video: <https://github.com/Cedric-uxb/clearsignal-wq/blob/main/artifacts/demo/ClearSignal-WQ-Demo-Narrated.mp4>
 - Public slides/PDF: <https://github.com/Cedric-uxb/clearsignal-wq/blob/main/presentation/ClearSignal-WQ-Deck.pdf>
 - Challenge project URL: **PENDING - create and publish the platform project**
 

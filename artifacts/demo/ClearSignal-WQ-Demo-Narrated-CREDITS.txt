@@ -1,0 +1,13 @@
+ClearSignal WQ Demo - Narrated Version Credits
+
+Narration: project demo script, rendered locally with a synthetic system voice
+
+Music: "Washed Up" by HoliznaCC0
+Album: OCEAN MEMORY (Lo-fi Chill)
+License: CC0 1.0 Universal (Public Domain Dedication)
+Source: https://freemusicarchive.org/music/holiznacc0/ocean-memory-lo-fi-chill/washed-up/
+Downloaded file SHA-256: d75e34dea40ec7d7cbdcda3a66624eb5e72a829d58cac98d056aa941d9b747f7
+
+The music was trimmed to the demo duration, reduced beneath the narration, and
+given short fade-in and fade-out transitions. On-screen subtitles remain in the
+video.
