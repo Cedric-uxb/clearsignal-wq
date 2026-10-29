@@ -1,6 +1,6 @@
-# ClearSignal WQ Submission Draft
+# ClearSignal WQ Submission Record
 
-Status: **public repository and demo published; challenge submission not yet created on the platform**
+Status: **submitted and publicly published on the challenge platform**
 
 ## Challenge
 
@@ -101,9 +101,10 @@ These labels and metrics concern sensor data quality. They do not establish cont
 - Public GitHub repository: <https://github.com/Cedric-uxb/clearsignal-wq>
 - Public demo video: <https://github.com/Cedric-uxb/clearsignal-wq/blob/main/artifacts/demo/ClearSignal-WQ-Demo-Narrated.mp4>
 - Public slides/PDF: <https://github.com/Cedric-uxb/clearsignal-wq/blob/main/presentation/ClearSignal-WQ-Deck.pdf>
-- Challenge project URL: **PENDING - create and publish the platform project**
+- Challenge project URL: <https://xyleminnovationchallenge-platform.bemyapp.com/#/projects/6ae27104e24b0f6e951bc990>
 
-## Remaining release blockers
+## Publication receipt
 
-1. Create the ClearSignal WQ project on the challenge platform and complete its submission fields.
-2. Publish the project after explicit approval, then record the project URL and success receipt here.
+- Published: 2026-10-28
+- Platform confirmation: `Your project is published!`
+- Public listing: visible under Project Submissions in the Water Quality - University Track
